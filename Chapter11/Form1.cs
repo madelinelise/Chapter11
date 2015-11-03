@@ -16,5 +16,22 @@ namespace Chapter11
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            BaseType bro = new BaseType("Joe", 18);
+
+            MessageBox.Show(bro.baseRegular());
+            MessageBox.Show(bro.baseVirtual());
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DerivedType dro = new DerivedType("Jane", 145.5, 21);
+
+            MessageBox.Show(dro.baseRegular());
+            MessageBox.Show(dro.baseVirtual());
+        }
     }
 }
