@@ -1,0 +1,8 @@
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\obj\Debug\Chapter11.csprojResolveAssemblyReference.cache
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\obj\Debug\Chapter11.Properties.Resources.resources
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\obj\Debug\Chapter11.csproj.GenerateResource.Cache
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+c:\users\madeline_2\documents\visual studio 2013\Projects\Chapter11\Chapter11\obj\Debug\Chapter11.pdb
